@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite parallel="false" name="Suite">
-  <test name="Test1">
+  <test name="Test11">
     <classes>
       <class name="git.demo.SampleTest1"/>
     </classes>
