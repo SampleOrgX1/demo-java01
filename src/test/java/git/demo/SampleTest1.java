@@ -31,6 +31,7 @@ public class SampleTest1 {
   public void test1() throws InterruptedException {
     System.out.println("Selenium Git Test1########");
     driver.findElement(By.name("q")).sendKeys("selenium grid\n");
+    System.out.println("Wait for 3s");
     Thread.sleep(3000);
     
   }
